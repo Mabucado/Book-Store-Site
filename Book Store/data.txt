@@ -1,0 +1,6 @@
+John 01 john@.co.za male 0616559875 Johnii 
+Letty 02 letty.co.za female 0726486584 Letttyii
+Abraham 03 abra@.co.za male 0818776658 Abrahamii
+Sibusiso 04 sibu@.co.za male 0625982244 Sibusisouu
+Thandi 05 thandi@.co.za female 0735689885 Thandiyy
+
